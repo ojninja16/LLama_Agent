@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx                     # For external API requests
+together        # For Together AI API (if available)
+pydantic                  # For data validation
+cachetools                # For caching API responses
+sqlalchemy                # If using SQL database for session management (optional)
+langdetect # For language detection
+dotenv                    # For environment variables
